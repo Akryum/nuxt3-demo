@@ -6,6 +6,7 @@
     "start": "node .output/server"
   },
   "devDependencies": {
-    "nuxt3": "latest"
+    "nuxt3": "latest",
+    "tailwindcss": "^2.2.14"
   }
 }
